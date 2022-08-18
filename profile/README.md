@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Roaries
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/roaries/roaries)
 
 There is food – and there are treats.
