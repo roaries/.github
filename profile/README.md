@@ -11,4 +11,4 @@ At `Roaries`, you'll find 100 % feelgood treats for dogs of all breeds, all ages
 * 💪 made from proteins & long-chain carbs
 * 🌱 vegetables and herbs
 
-A new brand for all dog-lovers who want to be sure about their treats.
+A new brand for all 🐶-lovers who want to be sure about their treats.
